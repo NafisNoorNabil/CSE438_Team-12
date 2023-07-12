@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Gender-Based Hate Comment Detection with NLP
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
