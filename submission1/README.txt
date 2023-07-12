@@ -1,7 +1,7 @@
 # CSE438_Team-12
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-[https://www.overleaf.com/read/zrtyzppxvrm](https://www.overleaf.com/9382378585mxypkrbdzyks)
+[https://www.overleaf.com/9382378585mxypkrbdzyks)
 
 
 
