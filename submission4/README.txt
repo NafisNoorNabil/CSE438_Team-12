@@ -1,11 +1,8 @@
-Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA. (Draft 2)
 https://www.overleaf.com/9382378585mxypkrbdzyks
 
 Unlisted YouTube video:
 http://youtube....
-
-Conference submitted paper / paper submission / login Link:
-https://easy....
 
 Paper title:
 Gender-Based Hate Comment Detection with NLP
