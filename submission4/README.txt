@@ -4,6 +4,8 @@ https://www.overleaf.com/9382378585mxypkrbdzyks
 Unlisted YouTube video:
 http://youtube....
 
+Drive link for slides, codes and dataset: https://drive.google.com/drive/folders/1_O4HsEGExUHYIAkdwX1qgJLtyIlOrvEJ
+
 Paper title:
 Gender-Based Hate Comment Detection with NLP
 
